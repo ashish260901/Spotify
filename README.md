@@ -204,5 +204,5 @@ Tools: DBeaver / pgAdmin / SQL Shell (psql)
 Dataset: Spotify music dataset (CSV or imported file)
 
 👩‍💻 Author
-Geetha
-📧 your_email@example.com
+Ashish
+📧 ashishssep2001@gmail.com
